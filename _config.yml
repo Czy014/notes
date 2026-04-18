@@ -1,6 +1,6 @@
 # Example Site settings
 
-remote_theme: Czy014/jekyll-theme-console
+remote_theme: Czy014/jekyll-theme-console@self
 
 header_pages:
  - index.md
