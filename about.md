@@ -1,7 +1,7 @@
 ---
-title: /
-layout: home
-permalink: /
+title: About
+layout: page
+permalink: /about
 ---
 
 # About
