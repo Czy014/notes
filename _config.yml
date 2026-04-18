@@ -3,7 +3,7 @@
 theme: Czy014/jekyll-theme-console
 
 header_pages:
- - index.md
+ - docs/index.md
 #  - about.md
 
 #footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
